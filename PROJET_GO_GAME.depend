@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1677340463 source:d:\documents\bureau\2023_projetc_farouk_idhemmou\projet_go_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1677340463 source:c:\users\user\2023_projetc_farouk_idhemmou\projet_go_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
