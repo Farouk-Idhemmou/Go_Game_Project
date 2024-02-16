@@ -1,0 +1,3 @@
+/*
+    download the project and start testing rules of theb game 
+*/
